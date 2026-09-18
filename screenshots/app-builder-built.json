@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sabor Boriitaly",
+      "hasCanvas": false,
+      "bodyTextLen": 2354,
+      "bodyTextHash": "1594473557015f3d358b5f3a61926a8b82dba4cd0aba9b576eb4a71360cbbf4c",
+      "bodyTextPrefix": "Sabor Boriitaly CEIBA · PUERTO RICO Combos Visítanos Pedido REST",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sabor Boriitaly",
+      "hasCanvas": false,
+      "bodyTextLen": 2317,
+      "bodyTextHash": "9e41fa927ec1597a5203d2af7f259baae0f2a8337ef4603e9135f53d73de0e5f",
+      "bodyTextPrefix": "Sabor Boriitaly Pedido RESTAURANTE FAMILIAR · CEIBA Criollo e it",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
